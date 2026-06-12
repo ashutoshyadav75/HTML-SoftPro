@@ -1,0 +1,14 @@
+Create a gallery with a page name gallery.html
+1. Four own photo with different 
+2. four flower
+3. 4 Vegetable
+4. 4 Different friends
+5. 4 politician 
+6. 4 Freedom Fighter
+7. 4 Actor
+8. 4 Actress 
+9. 4 Mobile Phones 
+10. 4 Faculty
+11. 4 own dress 
+12. 4 Technologies
+13.  4 Parents
