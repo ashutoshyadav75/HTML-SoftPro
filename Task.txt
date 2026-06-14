@@ -10,5 +10,12 @@ Create a gallery with a page name gallery.html
 9. 4 Mobile Phones 
 10. 4 Faculty
 11. 4 own dress 
-12. 4 Technologies
+12. 4 TechnologiesN
 13.  4 Parents
+
+
+Two types of element in HTML
+1. Inline level element
+2. Block element 
+
+//Enum
